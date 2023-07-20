@@ -22,3 +22,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=santiagocasanas&show_icons=true&locale=en&layout=compact" alt="santiagocasanas" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=santiagocasanas&show_icons=true&locale=en" alt="santiagocasanas" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=santiagocasanas&" alt="santiagocasanas" /></p>
