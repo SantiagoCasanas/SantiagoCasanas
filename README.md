@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Santiago!</h1>
 <h3 align="center">I am a software engineering student, with knowledge in backend development and learning technologies for frontend development.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=santiagocasanas" alt="santiagocasanas" /></a> </p>
-
 - 🔭 I’m currently working on **college projects**
 
 - 🌱 I’m currently learning **React**
